@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TabsWithSwipe</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="games">Design Games Screen</string>
+    <string name="rated">Design Top Rated Screen</string>
+    <string name="movies">Design Movies Screen</string>
+
+</resources>
